@@ -1,7 +1,7 @@
 <div align="center">
   <h1>ZGC-EmbodyAI</h1>
   
-  **General Embodied Intelligence Project Group 🚀**
+  **General Physical AI** Project Group 🚀
 
   <p>
     Affiliated with <strong>Zhongguancun Academy (ZGCA)</strong> & <strong>Zhongguancun Institute of Artificial Intelligence (ZGCI)</strong>
@@ -21,7 +21,7 @@
 
 **ZGC-EmbodyAI** is a joint research group established by the **Zhongguancun Academy (ZGCA)** and the **Zhongguancun Institute of Artificial Intelligence (ZGCI)**.
 
-Our core mission is to develop **General Embodied Intelligence**.
+Our core mission is to develop **General Physical AI**.
 
 ### 🔬 Research Focus
 
