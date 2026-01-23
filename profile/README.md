@@ -39,8 +39,20 @@ Below are our latest research contributions in the field of Embodied AI:
 ### PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence
 > **Abstract:** An egocentric-aware embodied brain, PhysBrain, trained on E2E-3M, exhibits substantially improved egocentric understanding for planning tasks, provides sample-efficient VLA fine-tuning initialization, and achieves 53.9% SimplerEnv success rates—demonstrating effective transfer from human egocentric supervision to downstream robot control.
 >
-> [![arXiv](https://img.shields.io/badge/arXiv-2512.16793-b31b1b.svg)](LINK_TO_ARXIVhttps://arxiv.org/abs/2512.16793)
+> [![arXiv](https://img.shields.io/badge/arXiv-2512.16793-b31b1b.svg)](https://arxiv.org/abs/2512.16793)
 > [![Code](https://img.shields.io/badge/Github-Code-black.svg)](https://github.com/ZGC-EmbodyAI/PhysBrain)
+
+### TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers
+> **Abstract:** TwinBrainVLA, a novel architecture that coordinates a generalist VLM retaining universal semantic understanding and a specialist VLM dedicated to embodied proprioception for joint robotic control.
+>
+> [![arXiv](https://img.shields.io/badge/arXiv-2601.14133-b31b1b.svg)](https://arxiv.org/abs/2601.14133)
+> [![Code](https://img.shields.io/badge/Github-Code-black.svg)](https://github.com/ZGC-EmbodyAI/TwinBrainVLA)
+
+### BayesianVLA : Bayesian Decomposition of Vision Language Action Models via Latent Action Queries
+> **Abstract:** BayesianVLA, a novel framework that enforces instruction following via Bayesian decomposition.
+>
+> [![arXiv](https://img.shields.io/badge/arXiv-2601.15197-b31b1b.svg)](https://arxiv.org/abs/2601.15197)
+> [![Code](https://img.shields.io/badge/Github-Code-black.svg)](https://github.com/ZGC-EmbodyAI/BayesianVLA)
 
 ---
 
