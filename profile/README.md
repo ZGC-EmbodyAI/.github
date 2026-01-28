@@ -48,7 +48,7 @@ Below are our latest research contributions in the field of Embodied AI:
 > [![arXiv](https://img.shields.io/badge/arXiv-2601.14133-b31b1b.svg)](https://arxiv.org/abs/2601.14133)
 > [![Code](https://img.shields.io/badge/Github-Code-black.svg)](https://github.com/ZGC-EmbodyAI/TwinBrainVLA)
 
-### LangForce : Bayesian Decomposition of Vision Language Action Models via Latent Action Queries
+### LangForce: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries
 > **Abstract:** LangForce is a novel framework that enforces instruction following via Bayesian decomposition. By introducing learnable Latent Action Queries, LangForce construct a dual-branch architecture to estimate both a vision-only prior $p(a∣v)$ and a language-conditioned posterior $π(a∣v,\ell)$
 >
 > [![arXiv](https://img.shields.io/badge/arXiv-2601.15197-b31b1b.svg)](https://arxiv.org/abs/2601.15197)
